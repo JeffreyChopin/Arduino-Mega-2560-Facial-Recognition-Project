@@ -5,11 +5,6 @@ This project uses one model trained using Teachable Machine:
 
 Facial Recognition Model – Identifies whether the user's face is present.
 
-Teachable Machine
-PySerial Documentation
-TensorFlow Documentation
-Arduino Documentation
-
 Project Steps
 Train the Model:
 Facial Recognition Model
